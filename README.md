@@ -20,8 +20,3 @@ By the end of this module, you will be able to:
 4. **Functions and Modules**: Introduction to functions, parameter passing, return values, and basic modules.
 5. **File Handling and Exceptions**: Understanding how to manage files and handle exceptions.
 6. **Applications in Mathematics**: Implementing Python in solving mathematical problems and algorithms.
-
-## Prerequisites
-
-- Basic understanding of mathematics and algebra.
-- No prior programming experience required.
